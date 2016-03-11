@@ -1,0 +1,4 @@
+void ReadFile(FILE *fl)
+{
+	
+ } 
